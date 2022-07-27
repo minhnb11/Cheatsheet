@@ -1,0 +1,19 @@
+{
+  "obsidianCss": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "readableLineLength": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 44
+  },
+  "foldHeading": true,
+  "foldIndent": true,
+  "smartIndentList": true,
+  "defaultViewMode": "source",
+  "legacyEditor": false,
+  "livePreview": true
+}

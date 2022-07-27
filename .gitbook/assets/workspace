@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "759686d12f2c8b90",
+    "type": "split",
+    "children": [
+      {
+        "id": "900e1abab4167593",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cheatsheet/Account_Takeovers_Methodologies/Account_Takeovers_Methods.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "489dcd593be9df42",
+    "type": "split",
+    "children": [
+      {
+        "id": "71cf49cffc77fa34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8358318791b0872c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "820931beffe33140",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5c32c4620d4dfde",
+    "type": "split",
+    "children": [
+      {
+        "id": "838928b5cfed926d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7b847390529013e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cheatsheet/Account_Takeovers_Methodologies/Account_Takeovers_Methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88e91d3cb824a74d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "900e1abab4167593",
+  "lastOpenFiles": [
+    "Cheatsheet/Authentication_Bypass/OTP_Bypass.md",
+    "Cheatsheet/Authentication_Bypass/2FA_Bypasses.md",
+    "Cheatsheet/MFA_Bypasses/2FA_Bypass.md",
+    "Cheatsheet/Account_Takeovers_Methodologies/Account_Takeovers_Methods.md",
+    "Cheatsheet/CSRF/README.md",
+    "Cheatsheet/SUMMARY.md",
+    "Cheatsheet/README.md",
+    "Cheatsheet/CONTRIBUTING.md",
+    "Cheatsheet/CODE_OF_CONDUCT.md",
+    "Daily Pentest/A-Checklist.md"
+  ]
+}
